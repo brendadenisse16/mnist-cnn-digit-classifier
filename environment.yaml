@@ -1,0 +1,25 @@
+
+---
+
+
+## 📁 Files
+
+| File | Description |
+|------|-------------|
+| `mnist_cnn_tutorial.ipynb` | Step-by-step explanation notebook |
+| `mnist_train.npz` | Training data |
+| `mnist_test.npz` | Test data |
+
+---
+
+## 🧪 Requirements
+
+- Python 3.8+
+- PyTorch
+- NumPy
+- scikit-learn
+- matplotlib
+
+Install dependencies:
+```bash
+pip install torch numpy scikit-learn matplotlib
